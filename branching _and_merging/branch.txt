@@ -1,0 +1,17 @@
+A branch in Git is an independent line of development that allows you to work on new features, bug fixes, or experiments without affecting the main project code. The default branch is often called main (or historically master), which holds stable, production-ready code.
+
+Branches are lightweight and fast in Git, meaning they don’t duplicate the entire codebase but simply point to a specific commit. This makes switching between branches quick and efficient.
+
+Why branches are useful:
+
+Isolation: Work on features or fixes without impacting the main branch.
+
+Parallel development: Multiple team members can work on different tasks simultaneously.
+
+Safe experimentation: Test ideas without risking production code.
+
+Efficient collaboration: Merge completed work back into the main branch when ready.
+
+Common branch types:
+
+Main/Master: Stable, deployable code.
